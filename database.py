@@ -10,22 +10,6 @@ def get_connection():
     return connection
 
 
-def get_all_parties():
-    connection = get_connection()
-
-    query = """ SELECT p.id, s.code AS serveur, s.nom AS serveur_nom, j.nom AS jeu, f.nom AS file, p.debut, p.attente_secondes, p.duree_minutes
-                FROM parties p
-                JOIN serveurs s ON p.serveur_id = s.id
-                JOIN files f ON p.file_id = f.id
-                JOIN jeux j ON f.jeu_id = j.id
-                ORDER BY p.debut DESC """
-
-    rows = connection.execute(query).fetchall()
-    connection.close()
-
-    return [dict(row) for row in rows]
-
-
 def get_referentiel():
     connection = get_connection()
 

@@ -1,5 +1,4 @@
 from flask import Flask, request, jsonify
-import sqlite3
 
 from database import get_connection, get_referentiel
 
@@ -7,10 +6,7 @@ from database import get_connection, get_referentiel
 app = Flask(__name__)
 
 
-# ---------------------------------------------------------
 # ROUTE DE TEST
-# ---------------------------------------------------------
-
 @app.route("/")
 def accueil():
     return {
@@ -19,10 +15,7 @@ def accueil():
     }
 
 
-# ---------------------------------------------------------
 # REFERENTIEL
-# ---------------------------------------------------------
-
 @app.route("/api/v1/parties/referentiel", methods=["GET"])
 def referentiel():
     try:
@@ -37,10 +30,7 @@ def referentiel():
         }), 500
 
 
-# ---------------------------------------------------------
 # PARTIES
-# ---------------------------------------------------------
-
 @app.route("/api/v1/parties", methods=["GET"])
 def get_parties():
 
@@ -264,9 +254,7 @@ def get_parties():
     }), 200
 
 
-# ---------------------------------------------------------
 # LANCEMENT DE L'API
-# ---------------------------------------------------------
 
 if __name__ == "__main__":
     app.run(
