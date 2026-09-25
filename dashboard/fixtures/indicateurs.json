@@ -1,0 +1,101 @@
+{
+  "2023": {
+    "periode": "2023",
+    "periode_reference": null,
+    "indicateurs": [
+      {
+        "cle": "kpi_1",
+        "nom": "Nombre de parties",
+        "unite": "parties",
+        "valeur": 82000.0,
+        "reference": null,
+        "ecart": null,
+        "sens": "hausse_favorable"
+      },
+      {
+        "cle": "kpi_2",
+        "nom": "Temps d'attente moyen",
+        "unite": "secondes",
+        "valeur": 90.63,
+        "reference": null,
+        "ecart": null,
+        "sens": "hausse_defavorable"
+      },
+      {
+        "cle": "kpi_3",
+        "nom": "Durée moyenne",
+        "unite": "minutes",
+        "valeur": 28.58,
+        "reference": null,
+        "ecart": null,
+        "sens": "hausse_defavorable"
+      }
+    ]
+  },
+  "2024": {
+    "periode": "2024",
+    "periode_reference": "2023",
+    "indicateurs": [
+      {
+        "cle": "kpi_1",
+        "nom": "Nombre de parties",
+        "unite": "parties",
+        "valeur": 91000.0,
+        "reference": 82000.0,
+        "ecart": 0.1098,
+        "sens": "hausse_favorable"
+      },
+      {
+        "cle": "kpi_2",
+        "nom": "Temps d'attente moyen",
+        "unite": "secondes",
+        "valeur": 92.55,
+        "reference": 90.63,
+        "ecart": 0.0212,
+        "sens": "hausse_defavorable"
+      },
+      {
+        "cle": "kpi_3",
+        "nom": "Durée moyenne",
+        "unite": "minutes",
+        "valeur": 28.79,
+        "reference": 28.58,
+        "ecart": 0.0071,
+        "sens": "hausse_defavorable"
+      }
+    ]
+  },
+  "2025": {
+    "periode": "2025",
+    "periode_reference": "2024",
+    "indicateurs": [
+      {
+        "cle": "kpi_1",
+        "nom": "Nombre de parties",
+        "unite": "parties",
+        "valeur": 77000.0,
+        "reference": 91000.0,
+        "ecart": -0.1538,
+        "sens": "hausse_favorable"
+      },
+      {
+        "cle": "kpi_2",
+        "nom": "Temps d'attente moyen",
+        "unite": "secondes",
+        "valeur": 91.79,
+        "reference": 92.55,
+        "ecart": -0.0083,
+        "sens": "hausse_defavorable"
+      },
+      {
+        "cle": "kpi_3",
+        "nom": "Durée moyenne",
+        "unite": "minutes",
+        "valeur": 29.45,
+        "reference": 28.79,
+        "ecart": 0.0229,
+        "sens": "hausse_defavorable"
+      }
+    ]
+  }
+}

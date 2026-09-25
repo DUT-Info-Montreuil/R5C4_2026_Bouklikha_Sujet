@@ -1,0 +1,153 @@
+{
+  "serveurs": [
+    {
+      "id": 5,
+      "code": "BR",
+      "nom": "Brazil",
+      "region": "Americas"
+    },
+    {
+      "id": 2,
+      "code": "EUNE",
+      "nom": "Europe Nordic & East",
+      "region": "Europe"
+    },
+    {
+      "id": 1,
+      "code": "EUW",
+      "nom": "Europe West",
+      "region": "Europe"
+    },
+    {
+      "id": 4,
+      "code": "KR",
+      "nom": "Korea",
+      "region": "Asia"
+    },
+    {
+      "id": 6,
+      "code": "LAN",
+      "nom": "Latin America North",
+      "region": "Americas"
+    },
+    {
+      "id": 3,
+      "code": "NA",
+      "nom": "North America",
+      "region": "Americas"
+    }
+  ],
+  "jeux": [
+    {
+      "id": 5,
+      "nom": "Legends of Runeterra"
+    },
+    {
+      "id": 1,
+      "nom": "LoL"
+    },
+    {
+      "id": 3,
+      "nom": "TFT"
+    },
+    {
+      "id": 2,
+      "nom": "Valorant"
+    },
+    {
+      "id": 4,
+      "nom": "Wild Rift"
+    }
+  ],
+  "files": [
+    {
+      "id": 13,
+      "nom": "Classée",
+      "jeu_id": 5,
+      "jeu": "Legends of Runeterra"
+    },
+    {
+      "id": 14,
+      "nom": "Normale",
+      "jeu_id": 5,
+      "jeu": "Legends of Runeterra"
+    },
+    {
+      "id": 4,
+      "nom": "ARAM",
+      "jeu_id": 1,
+      "jeu": "LoL"
+    },
+    {
+      "id": 2,
+      "nom": "Classée flexible",
+      "jeu_id": 1,
+      "jeu": "LoL"
+    },
+    {
+      "id": 1,
+      "nom": "Classée solo",
+      "jeu_id": 1,
+      "jeu": "LoL"
+    },
+    {
+      "id": 3,
+      "nom": "Normale draft",
+      "jeu_id": 1,
+      "jeu": "LoL"
+    },
+    {
+      "id": 8,
+      "nom": "Classée",
+      "jeu_id": 3,
+      "jeu": "TFT"
+    },
+    {
+      "id": 10,
+      "nom": "Double Up",
+      "jeu_id": 3,
+      "jeu": "TFT"
+    },
+    {
+      "id": 9,
+      "nom": "Normale",
+      "jeu_id": 3,
+      "jeu": "TFT"
+    },
+    {
+      "id": 5,
+      "nom": "Compétitive",
+      "jeu_id": 2,
+      "jeu": "Valorant"
+    },
+    {
+      "id": 6,
+      "nom": "Non classée",
+      "jeu_id": 2,
+      "jeu": "Valorant"
+    },
+    {
+      "id": 7,
+      "nom": "Swiftplay",
+      "jeu_id": 2,
+      "jeu": "Valorant"
+    },
+    {
+      "id": 11,
+      "nom": "Classée",
+      "jeu_id": 4,
+      "jeu": "Wild Rift"
+    },
+    {
+      "id": 12,
+      "nom": "Normale",
+      "jeu_id": 4,
+      "jeu": "Wild Rift"
+    }
+  ],
+  "annees": [
+    "2023",
+    "2024",
+    "2025"
+  ]
+}

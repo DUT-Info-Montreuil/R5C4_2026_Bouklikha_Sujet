@@ -1,0 +1,907 @@
+{
+  "data": [
+    {
+      "id": 74234,
+      "serveur": "BR",
+      "serveur_nom": "Brazil",
+      "jeu": "Legends of Runeterra",
+      "file": "Normale",
+      "debut": "2023-12-28 07:41:17",
+      "attente_secondes": 78,
+      "duree_minutes": 13.3
+    },
+    {
+      "id": 70867,
+      "serveur": "BR",
+      "serveur_nom": "Brazil",
+      "jeu": "LoL",
+      "file": "Classée flexible",
+      "debut": "2023-12-28 23:28:54",
+      "attente_secondes": 263,
+      "duree_minutes": 40.5
+    },
+    {
+      "id": 46684,
+      "serveur": "BR",
+      "serveur_nom": "Brazil",
+      "jeu": "TFT",
+      "file": "Normale",
+      "debut": "2023-12-28 18:12:28",
+      "attente_secondes": 35,
+      "duree_minutes": 24.7
+    },
+    {
+      "id": 71873,
+      "serveur": "BR",
+      "serveur_nom": "Brazil",
+      "jeu": "Valorant",
+      "file": "Swiftplay",
+      "debut": "2023-12-28 23:26:48",
+      "attente_secondes": 28,
+      "duree_minutes": 15.6
+    },
+    {
+      "id": 4441,
+      "serveur": "BR",
+      "serveur_nom": "Brazil",
+      "jeu": "Wild Rift",
+      "file": "Classée",
+      "debut": "2023-12-28 18:45:04",
+      "attente_secondes": 167,
+      "duree_minutes": 29.2
+    },
+    {
+      "id": 81618,
+      "serveur": "EUNE",
+      "serveur_nom": "Europe Nordic & East",
+      "jeu": "Legends of Runeterra",
+      "file": "Normale",
+      "debut": "2023-12-28 20:23:48",
+      "attente_secondes": 63,
+      "duree_minutes": 16.4
+    },
+    {
+      "id": 50877,
+      "serveur": "EUNE",
+      "serveur_nom": "Europe Nordic & East",
+      "jeu": "LoL",
+      "file": "ARAM",
+      "debut": "2023-12-28 21:59:06",
+      "attente_secondes": 49,
+      "duree_minutes": 19.0
+    },
+    {
+      "id": 26615,
+      "serveur": "EUNE",
+      "serveur_nom": "Europe Nordic & East",
+      "jeu": "TFT",
+      "file": "Classée",
+      "debut": "2023-12-28 23:09:30",
+      "attente_secondes": 148,
+      "duree_minutes": 35.6
+    },
+    {
+      "id": 58506,
+      "serveur": "EUNE",
+      "serveur_nom": "Europe Nordic & East",
+      "jeu": "Valorant",
+      "file": "Non classée",
+      "debut": "2023-12-28 22:33:14",
+      "attente_secondes": 48,
+      "duree_minutes": 31.4
+    },
+    {
+      "id": 9849,
+      "serveur": "EUNE",
+      "serveur_nom": "Europe Nordic & East",
+      "jeu": "Wild Rift",
+      "file": "Normale",
+      "debut": "2023-12-28 21:11:36",
+      "attente_secondes": 91,
+      "duree_minutes": 19.3
+    },
+    {
+      "id": 53103,
+      "serveur": "EUW",
+      "serveur_nom": "Europe West",
+      "jeu": "Legends of Runeterra",
+      "file": "Normale",
+      "debut": "2023-12-27 19:14:12",
+      "attente_secondes": 123,
+      "duree_minutes": 11.8
+    },
+    {
+      "id": 75117,
+      "serveur": "EUW",
+      "serveur_nom": "Europe West",
+      "jeu": "LoL",
+      "file": "ARAM",
+      "debut": "2023-12-28 21:50:31",
+      "attente_secondes": 33,
+      "duree_minutes": 18.6
+    },
+    {
+      "id": 25559,
+      "serveur": "EUW",
+      "serveur_nom": "Europe West",
+      "jeu": "TFT",
+      "file": "Double Up",
+      "debut": "2023-12-28 20:45:30",
+      "attente_secondes": 29,
+      "duree_minutes": 37.7
+    },
+    {
+      "id": 47141,
+      "serveur": "EUW",
+      "serveur_nom": "Europe West",
+      "jeu": "Valorant",
+      "file": "Non classée",
+      "debut": "2023-12-28 22:32:51",
+      "attente_secondes": 45,
+      "duree_minutes": 35.8
+    },
+    {
+      "id": 6201,
+      "serveur": "EUW",
+      "serveur_nom": "Europe West",
+      "jeu": "Wild Rift",
+      "file": "Normale",
+      "debut": "2023-12-28 22:44:17",
+      "attente_secondes": 36,
+      "duree_minutes": 25.0
+    },
+    {
+      "id": 73416,
+      "serveur": "KR",
+      "serveur_nom": "Korea",
+      "jeu": "Legends of Runeterra",
+      "file": "Normale",
+      "debut": "2023-12-28 21:52:52",
+      "attente_secondes": 20,
+      "duree_minutes": 17.3
+    },
+    {
+      "id": 7068,
+      "serveur": "KR",
+      "serveur_nom": "Korea",
+      "jeu": "LoL",
+      "file": "Normale draft",
+      "debut": "2023-12-28 19:10:06",
+      "attente_secondes": 54,
+      "duree_minutes": 35.2
+    },
+    {
+      "id": 23053,
+      "serveur": "KR",
+      "serveur_nom": "Korea",
+      "jeu": "TFT",
+      "file": "Normale",
+      "debut": "2023-12-28 22:13:07",
+      "attente_secondes": 45,
+      "duree_minutes": 37.3
+    },
+    {
+      "id": 75695,
+      "serveur": "KR",
+      "serveur_nom": "Korea",
+      "jeu": "Valorant",
+      "file": "Non classée",
+      "debut": "2023-12-28 19:27:51",
+      "attente_secondes": 20,
+      "duree_minutes": 26.8
+    },
+    {
+      "id": 17174,
+      "serveur": "KR",
+      "serveur_nom": "Korea",
+      "jeu": "Wild Rift",
+      "file": "Normale",
+      "debut": "2023-12-28 22:53:04",
+      "attente_secondes": 39,
+      "duree_minutes": 17.8
+    },
+    {
+      "id": 28319,
+      "serveur": "LAN",
+      "serveur_nom": "Latin America North",
+      "jeu": "Legends of Runeterra",
+      "file": "Classée",
+      "debut": "2023-12-23 19:45:10",
+      "attente_secondes": 113,
+      "duree_minutes": 18.8
+    },
+    {
+      "id": 15222,
+      "serveur": "LAN",
+      "serveur_nom": "Latin America North",
+      "jeu": "LoL",
+      "file": "Classée solo",
+      "debut": "2023-12-28 18:09:31",
+      "attente_secondes": 160,
+      "duree_minutes": 32.8
+    },
+    {
+      "id": 53648,
+      "serveur": "LAN",
+      "serveur_nom": "Latin America North",
+      "jeu": "TFT",
+      "file": "Classée",
+      "debut": "2023-12-28 18:23:07",
+      "attente_secondes": 147,
+      "duree_minutes": 35.9
+    },
+    {
+      "id": 36342,
+      "serveur": "LAN",
+      "serveur_nom": "Latin America North",
+      "jeu": "Valorant",
+      "file": "Swiftplay",
+      "debut": "2023-12-28 22:15:36",
+      "attente_secondes": 43,
+      "duree_minutes": 16.8
+    },
+    {
+      "id": 19868,
+      "serveur": "LAN",
+      "serveur_nom": "Latin America North",
+      "jeu": "Wild Rift",
+      "file": "Classée",
+      "debut": "2023-12-28 20:25:06",
+      "attente_secondes": 122,
+      "duree_minutes": 21.7
+    },
+    {
+      "id": 73925,
+      "serveur": "NA",
+      "serveur_nom": "North America",
+      "jeu": "Legends of Runeterra",
+      "file": "Classée",
+      "debut": "2023-12-28 18:22:29",
+      "attente_secondes": 201,
+      "duree_minutes": 14.7
+    },
+    {
+      "id": 79695,
+      "serveur": "NA",
+      "serveur_nom": "North America",
+      "jeu": "LoL",
+      "file": "Normale draft",
+      "debut": "2023-12-28 22:23:27",
+      "attente_secondes": 36,
+      "duree_minutes": 32.0
+    },
+    {
+      "id": 15995,
+      "serveur": "NA",
+      "serveur_nom": "North America",
+      "jeu": "TFT",
+      "file": "Normale",
+      "debut": "2023-12-28 23:41:35",
+      "attente_secondes": 44,
+      "duree_minutes": 31.5
+    },
+    {
+      "id": 38425,
+      "serveur": "NA",
+      "serveur_nom": "North America",
+      "jeu": "Valorant",
+      "file": "Non classée",
+      "debut": "2023-12-28 22:08:09",
+      "attente_secondes": 40,
+      "duree_minutes": 29.0
+    },
+    {
+      "id": 47350,
+      "serveur": "NA",
+      "serveur_nom": "North America",
+      "jeu": "Wild Rift",
+      "file": "Classée",
+      "debut": "2023-12-28 23:59:50",
+      "attente_secondes": 181,
+      "duree_minutes": 19.5
+    },
+    {
+      "id": 113798,
+      "serveur": "BR",
+      "serveur_nom": "Brazil",
+      "jeu": "Legends of Runeterra",
+      "file": "Classée",
+      "debut": "2024-12-28 20:09:58",
+      "attente_secondes": 227,
+      "duree_minutes": 14.3
+    },
+    {
+      "id": 135598,
+      "serveur": "BR",
+      "serveur_nom": "Brazil",
+      "jeu": "LoL",
+      "file": "Classée solo",
+      "debut": "2024-12-28 22:35:06",
+      "attente_secondes": 129,
+      "duree_minutes": 39.8
+    },
+    {
+      "id": 120446,
+      "serveur": "BR",
+      "serveur_nom": "Brazil",
+      "jeu": "TFT",
+      "file": "Double Up",
+      "debut": "2024-12-28 21:40:17",
+      "attente_secondes": 79,
+      "duree_minutes": 28.6
+    },
+    {
+      "id": 90127,
+      "serveur": "BR",
+      "serveur_nom": "Brazil",
+      "jeu": "Valorant",
+      "file": "Swiftplay",
+      "debut": "2024-12-28 20:54:03",
+      "attente_secondes": 45,
+      "duree_minutes": 15.0
+    },
+    {
+      "id": 156726,
+      "serveur": "BR",
+      "serveur_nom": "Brazil",
+      "jeu": "Wild Rift",
+      "file": "Normale",
+      "debut": "2024-12-28 20:05:24",
+      "attente_secondes": 54,
+      "duree_minutes": 26.0
+    },
+    {
+      "id": 156149,
+      "serveur": "EUNE",
+      "serveur_nom": "Europe Nordic & East",
+      "jeu": "Legends of Runeterra",
+      "file": "Normale",
+      "debut": "2024-12-28 21:58:12",
+      "attente_secondes": 110,
+      "duree_minutes": 10.7
+    },
+    {
+      "id": 169306,
+      "serveur": "EUNE",
+      "serveur_nom": "Europe Nordic & East",
+      "jeu": "LoL",
+      "file": "Classée solo",
+      "debut": "2024-12-28 22:23:05",
+      "attente_secondes": 402,
+      "duree_minutes": 28.3
+    },
+    {
+      "id": 105885,
+      "serveur": "EUNE",
+      "serveur_nom": "Europe Nordic & East",
+      "jeu": "TFT",
+      "file": "Double Up",
+      "debut": "2024-12-28 23:55:29",
+      "attente_secondes": 155,
+      "duree_minutes": 30.7
+    },
+    {
+      "id": 145652,
+      "serveur": "EUNE",
+      "serveur_nom": "Europe Nordic & East",
+      "jeu": "Valorant",
+      "file": "Non classée",
+      "debut": "2024-12-28 23:25:04",
+      "attente_secondes": 70,
+      "duree_minutes": 30.5
+    },
+    {
+      "id": 112046,
+      "serveur": "EUNE",
+      "serveur_nom": "Europe Nordic & East",
+      "jeu": "Wild Rift",
+      "file": "Normale",
+      "debut": "2024-12-28 23:39:54",
+      "attente_secondes": 22,
+      "duree_minutes": 14.4
+    },
+    {
+      "id": 154628,
+      "serveur": "EUW",
+      "serveur_nom": "Europe West",
+      "jeu": "Legends of Runeterra",
+      "file": "Normale",
+      "debut": "2024-12-28 23:40:26",
+      "attente_secondes": 65,
+      "duree_minutes": 11.5
+    },
+    {
+      "id": 116653,
+      "serveur": "EUW",
+      "serveur_nom": "Europe West",
+      "jeu": "LoL",
+      "file": "Normale draft",
+      "debut": "2024-12-28 22:56:41",
+      "attente_secondes": 122,
+      "duree_minutes": 26.8
+    },
+    {
+      "id": 130589,
+      "serveur": "EUW",
+      "serveur_nom": "Europe West",
+      "jeu": "TFT",
+      "file": "Classée",
+      "debut": "2024-12-28 21:18:59",
+      "attente_secondes": 134,
+      "duree_minutes": 46.9
+    },
+    {
+      "id": 112735,
+      "serveur": "EUW",
+      "serveur_nom": "Europe West",
+      "jeu": "Valorant",
+      "file": "Compétitive",
+      "debut": "2024-12-28 21:56:24",
+      "attente_secondes": 98,
+      "duree_minutes": 32.0
+    },
+    {
+      "id": 151243,
+      "serveur": "EUW",
+      "serveur_nom": "Europe West",
+      "jeu": "Wild Rift",
+      "file": "Normale",
+      "debut": "2024-12-28 20:41:11",
+      "attente_secondes": 27,
+      "duree_minutes": 19.4
+    },
+    {
+      "id": 133705,
+      "serveur": "KR",
+      "serveur_nom": "Korea",
+      "jeu": "Legends of Runeterra",
+      "file": "Normale",
+      "debut": "2024-12-28 17:54:19",
+      "attente_secondes": 76,
+      "duree_minutes": 12.1
+    },
+    {
+      "id": 120571,
+      "serveur": "KR",
+      "serveur_nom": "Korea",
+      "jeu": "LoL",
+      "file": "Normale draft",
+      "debut": "2024-12-28 22:19:00",
+      "attente_secondes": 26,
+      "duree_minutes": 26.7
+    },
+    {
+      "id": 90557,
+      "serveur": "KR",
+      "serveur_nom": "Korea",
+      "jeu": "TFT",
+      "file": "Normale",
+      "debut": "2024-12-28 22:58:20",
+      "attente_secondes": 53,
+      "duree_minutes": 33.3
+    },
+    {
+      "id": 134217,
+      "serveur": "KR",
+      "serveur_nom": "Korea",
+      "jeu": "Valorant",
+      "file": "Compétitive",
+      "debut": "2024-12-28 20:01:31",
+      "attente_secondes": 45,
+      "duree_minutes": 24.9
+    },
+    {
+      "id": 85660,
+      "serveur": "KR",
+      "serveur_nom": "Korea",
+      "jeu": "Wild Rift",
+      "file": "Classée",
+      "debut": "2024-12-27 21:21:51",
+      "attente_secondes": 77,
+      "duree_minutes": 30.7
+    },
+    {
+      "id": 89354,
+      "serveur": "LAN",
+      "serveur_nom": "Latin America North",
+      "jeu": "Legends of Runeterra",
+      "file": "Classée",
+      "debut": "2024-12-28 11:28:01",
+      "attente_secondes": 355,
+      "duree_minutes": 26.0
+    },
+    {
+      "id": 141426,
+      "serveur": "LAN",
+      "serveur_nom": "Latin America North",
+      "jeu": "LoL",
+      "file": "ARAM",
+      "debut": "2024-12-28 15:28:06",
+      "attente_secondes": 64,
+      "duree_minutes": 19.1
+    },
+    {
+      "id": 88172,
+      "serveur": "LAN",
+      "serveur_nom": "Latin America North",
+      "jeu": "TFT",
+      "file": "Classée",
+      "debut": "2024-12-28 20:46:34",
+      "attente_secondes": 87,
+      "duree_minutes": 38.2
+    },
+    {
+      "id": 162588,
+      "serveur": "LAN",
+      "serveur_nom": "Latin America North",
+      "jeu": "Valorant",
+      "file": "Compétitive",
+      "debut": "2024-12-28 21:47:45",
+      "attente_secondes": 78,
+      "duree_minutes": 31.3
+    },
+    {
+      "id": 98113,
+      "serveur": "LAN",
+      "serveur_nom": "Latin America North",
+      "jeu": "Wild Rift",
+      "file": "Classée",
+      "debut": "2024-12-28 20:04:12",
+      "attente_secondes": 80,
+      "duree_minutes": 24.5
+    },
+    {
+      "id": 127283,
+      "serveur": "NA",
+      "serveur_nom": "North America",
+      "jeu": "Legends of Runeterra",
+      "file": "Normale",
+      "debut": "2024-12-26 22:51:07",
+      "attente_secondes": 58,
+      "duree_minutes": 11.4
+    },
+    {
+      "id": 124909,
+      "serveur": "NA",
+      "serveur_nom": "North America",
+      "jeu": "LoL",
+      "file": "Classée solo",
+      "debut": "2024-12-28 22:21:27",
+      "attente_secondes": 167,
+      "duree_minutes": 38.7
+    },
+    {
+      "id": 160864,
+      "serveur": "NA",
+      "serveur_nom": "North America",
+      "jeu": "TFT",
+      "file": "Normale",
+      "debut": "2024-12-28 21:50:51",
+      "attente_secondes": 50,
+      "duree_minutes": 35.4
+    },
+    {
+      "id": 112811,
+      "serveur": "NA",
+      "serveur_nom": "North America",
+      "jeu": "Valorant",
+      "file": "Swiftplay",
+      "debut": "2024-12-28 20:20:30",
+      "attente_secondes": 40,
+      "duree_minutes": 10.4
+    },
+    {
+      "id": 82063,
+      "serveur": "NA",
+      "serveur_nom": "North America",
+      "jeu": "Wild Rift",
+      "file": "Classée",
+      "debut": "2024-12-28 20:20:31",
+      "attente_secondes": 91,
+      "duree_minutes": 19.3
+    },
+    {
+      "id": 179896,
+      "serveur": "BR",
+      "serveur_nom": "Brazil",
+      "jeu": "Legends of Runeterra",
+      "file": "Normale",
+      "debut": "2025-12-25 11:23:53",
+      "attente_secondes": 96,
+      "duree_minutes": 13.2
+    },
+    {
+      "id": 199080,
+      "serveur": "BR",
+      "serveur_nom": "Brazil",
+      "jeu": "LoL",
+      "file": "Classée flexible",
+      "debut": "2025-12-28 22:58:17",
+      "attente_secondes": 215,
+      "duree_minutes": 29.6
+    },
+    {
+      "id": 241496,
+      "serveur": "BR",
+      "serveur_nom": "Brazil",
+      "jeu": "TFT",
+      "file": "Classée",
+      "debut": "2025-12-28 22:55:46",
+      "attente_secondes": 94,
+      "duree_minutes": 27.1
+    },
+    {
+      "id": 182777,
+      "serveur": "BR",
+      "serveur_nom": "Brazil",
+      "jeu": "Valorant",
+      "file": "Swiftplay",
+      "debut": "2025-12-28 20:28:32",
+      "attente_secondes": 18,
+      "duree_minutes": 14.6
+    },
+    {
+      "id": 197594,
+      "serveur": "BR",
+      "serveur_nom": "Brazil",
+      "jeu": "Wild Rift",
+      "file": "Normale",
+      "debut": "2025-12-28 20:44:04",
+      "attente_secondes": 33,
+      "duree_minutes": 20.2
+    },
+    {
+      "id": 226131,
+      "serveur": "EUNE",
+      "serveur_nom": "Europe Nordic & East",
+      "jeu": "Legends of Runeterra",
+      "file": "Classée",
+      "debut": "2025-12-28 20:48:48",
+      "attente_secondes": 197,
+      "duree_minutes": 22.3
+    },
+    {
+      "id": 240699,
+      "serveur": "EUNE",
+      "serveur_nom": "Europe Nordic & East",
+      "jeu": "LoL",
+      "file": "Normale draft",
+      "debut": "2025-12-28 21:49:27",
+      "attente_secondes": 116,
+      "duree_minutes": 34.9
+    },
+    {
+      "id": 230093,
+      "serveur": "EUNE",
+      "serveur_nom": "Europe Nordic & East",
+      "jeu": "TFT",
+      "file": "Double Up",
+      "debut": "2025-12-28 23:22:58",
+      "attente_secondes": 37,
+      "duree_minutes": 26.9
+    },
+    {
+      "id": 201082,
+      "serveur": "EUNE",
+      "serveur_nom": "Europe Nordic & East",
+      "jeu": "Valorant",
+      "file": "Swiftplay",
+      "debut": "2025-12-28 23:17:40",
+      "attente_secondes": 26,
+      "duree_minutes": 16.9
+    },
+    {
+      "id": 240746,
+      "serveur": "EUNE",
+      "serveur_nom": "Europe Nordic & East",
+      "jeu": "Wild Rift",
+      "file": "Classée",
+      "debut": "2025-12-28 21:01:07",
+      "attente_secondes": 154,
+      "duree_minutes": 17.4
+    },
+    {
+      "id": 216850,
+      "serveur": "EUW",
+      "serveur_nom": "Europe West",
+      "jeu": "Legends of Runeterra",
+      "file": "Normale",
+      "debut": "2025-12-28 22:55:58",
+      "attente_secondes": 150,
+      "duree_minutes": 12.5
+    },
+    {
+      "id": 183296,
+      "serveur": "EUW",
+      "serveur_nom": "Europe West",
+      "jeu": "LoL",
+      "file": "Classée flexible",
+      "debut": "2025-12-28 21:11:13",
+      "attente_secondes": 300,
+      "duree_minutes": 38.8
+    },
+    {
+      "id": 240122,
+      "serveur": "EUW",
+      "serveur_nom": "Europe West",
+      "jeu": "TFT",
+      "file": "Classée",
+      "debut": "2025-12-28 22:32:44",
+      "attente_secondes": 53,
+      "duree_minutes": 44.9
+    },
+    {
+      "id": 199293,
+      "serveur": "EUW",
+      "serveur_nom": "Europe West",
+      "jeu": "Valorant",
+      "file": "Compétitive",
+      "debut": "2025-12-28 21:29:52",
+      "attente_secondes": 90,
+      "duree_minutes": 56.2
+    },
+    {
+      "id": 184169,
+      "serveur": "EUW",
+      "serveur_nom": "Europe West",
+      "jeu": "Wild Rift",
+      "file": "Classée",
+      "debut": "2025-12-28 20:26:24",
+      "attente_secondes": 53,
+      "duree_minutes": 27.6
+    },
+    {
+      "id": 180454,
+      "serveur": "KR",
+      "serveur_nom": "Korea",
+      "jeu": "Legends of Runeterra",
+      "file": "Classée",
+      "debut": "2025-12-28 09:19:22",
+      "attente_secondes": 156,
+      "duree_minutes": 16.0
+    },
+    {
+      "id": 177959,
+      "serveur": "KR",
+      "serveur_nom": "Korea",
+      "jeu": "LoL",
+      "file": "Normale draft",
+      "debut": "2025-12-28 19:50:48",
+      "attente_secondes": 47,
+      "duree_minutes": 32.8
+    },
+    {
+      "id": 182727,
+      "serveur": "KR",
+      "serveur_nom": "Korea",
+      "jeu": "TFT",
+      "file": "Classée",
+      "debut": "2025-12-28 20:34:53",
+      "attente_secondes": 57,
+      "duree_minutes": 41.1
+    },
+    {
+      "id": 227218,
+      "serveur": "KR",
+      "serveur_nom": "Korea",
+      "jeu": "Valorant",
+      "file": "Non classée",
+      "debut": "2025-12-28 19:58:57",
+      "attente_secondes": 41,
+      "duree_minutes": 39.1
+    },
+    {
+      "id": 246605,
+      "serveur": "KR",
+      "serveur_nom": "Korea",
+      "jeu": "Wild Rift",
+      "file": "Classée",
+      "debut": "2025-12-28 18:08:44",
+      "attente_secondes": 56,
+      "duree_minutes": 18.8
+    },
+    {
+      "id": 249478,
+      "serveur": "LAN",
+      "serveur_nom": "Latin America North",
+      "jeu": "Legends of Runeterra",
+      "file": "Normale",
+      "debut": "2025-12-26 12:17:37",
+      "attente_secondes": 32,
+      "duree_minutes": 13.5
+    },
+    {
+      "id": 196794,
+      "serveur": "LAN",
+      "serveur_nom": "Latin America North",
+      "jeu": "LoL",
+      "file": "Normale draft",
+      "debut": "2025-12-28 19:09:13",
+      "attente_secondes": 94,
+      "duree_minutes": 25.3
+    },
+    {
+      "id": 210802,
+      "serveur": "LAN",
+      "serveur_nom": "Latin America North",
+      "jeu": "TFT",
+      "file": "Double Up",
+      "debut": "2025-12-28 18:05:45",
+      "attente_secondes": 110,
+      "duree_minutes": 35.4
+    },
+    {
+      "id": 183721,
+      "serveur": "LAN",
+      "serveur_nom": "Latin America North",
+      "jeu": "Valorant",
+      "file": "Non classée",
+      "debut": "2025-12-28 21:29:33",
+      "attente_secondes": 46,
+      "duree_minutes": 43.8
+    },
+    {
+      "id": 228785,
+      "serveur": "LAN",
+      "serveur_nom": "Latin America North",
+      "jeu": "Wild Rift",
+      "file": "Normale",
+      "debut": "2025-12-25 18:45:18",
+      "attente_secondes": 53,
+      "duree_minutes": 20.0
+    },
+    {
+      "id": 203212,
+      "serveur": "NA",
+      "serveur_nom": "North America",
+      "jeu": "Legends of Runeterra",
+      "file": "Classée",
+      "debut": "2025-12-28 23:03:04",
+      "attente_secondes": 209,
+      "duree_minutes": 19.2
+    },
+    {
+      "id": 223034,
+      "serveur": "NA",
+      "serveur_nom": "North America",
+      "jeu": "LoL",
+      "file": "Normale draft",
+      "debut": "2025-12-28 21:34:06",
+      "attente_secondes": 217,
+      "duree_minutes": 25.6
+    },
+    {
+      "id": 195375,
+      "serveur": "NA",
+      "serveur_nom": "North America",
+      "jeu": "TFT",
+      "file": "Normale",
+      "debut": "2025-12-28 22:25:38",
+      "attente_secondes": 67,
+      "duree_minutes": 48.1
+    },
+    {
+      "id": 249546,
+      "serveur": "NA",
+      "serveur_nom": "North America",
+      "jeu": "Valorant",
+      "file": "Compétitive",
+      "debut": "2025-12-28 22:50:45",
+      "attente_secondes": 64,
+      "duree_minutes": 32.1
+    },
+    {
+      "id": 190861,
+      "serveur": "NA",
+      "serveur_nom": "North America",
+      "jeu": "Wild Rift",
+      "file": "Normale",
+      "debut": "2025-12-28 19:54:25",
+      "attente_secondes": 84,
+      "duree_minutes": 21.7
+    }
+  ],
+  "total": 90,
+  "limit": 20,
+  "offset": 0
+}
